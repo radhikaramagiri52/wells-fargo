@@ -3,3 +3,4 @@ target/
 *.retry
 *.swq
 **/*.jar
+chiddu.txt
