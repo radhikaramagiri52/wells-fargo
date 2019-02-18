@@ -3,4 +3,7 @@ target/
 *.retry
 *.swq
 **/*.jar
-chiddu.txt
+ 
+chiddu.txt 
+test.xml
+rdhika.txt
