@@ -3,3 +3,5 @@ target/
 *.retry
 *.swq
 **/*.jar
+test.xml
+rdhika.txt
